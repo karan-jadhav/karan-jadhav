@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-jadhav&show_icons=true&locale=en&layout=compact&theme=dark" alt="karan-jadhav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karan-jadhav&show_icons=true&locale=en&theme=dark" alt="karan-jadhav" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karan-jadhav&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
